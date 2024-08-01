@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facephi Integration</title>
-    @vite('resources/js/app.js') <!-- Asegúrate de que este archivo es el que contiene tus importaciones -->
+    @vite('resources/js/app.js')
+    <style>
+        facephi-selphid-widget{
+            height: 500px;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
     <facephi-sdk-provider
@@ -18,7 +24,7 @@
             bundle-path="/assets/widgets/selphi"
         ></facephi-selphi-widget>
         <facephi-selphid-widget
-            bundle-path="/assets/widgets/selphid"
+            bundle-path="{{ asset('/assets/widgets/selphid') }}"
         ></facephi-selphid-widget>
     </facephi-sdk-provider>
 </body>
