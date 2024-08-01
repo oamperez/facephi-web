@@ -1,0 +1,88 @@
+{
+  "hash": "759bd3c8",
+  "configHash": "a6ddbe1a",
+  "lockfileHash": "7e306013",
+  "browserHash": "07ad7ea4",
+  "optimized": {
+    "@facephi/sdk-web-wc/loader": {
+      "src": "../../@facephi/sdk-web-wc/loader/index.js",
+      "file": "@facephi_sdk-web-wc_loader.js",
+      "fileHash": "9bbf8645",
+      "needsInterop": false
+    },
+    "@facephi/selphi-widget-web": {
+      "src": "../../@facephi/selphi-widget-web/selphi-widget-web.min.js",
+      "file": "@facephi_selphi-widget-web.js",
+      "fileHash": "70ba8527",
+      "needsInterop": false
+    },
+    "@facephi/selphid-widget-web": {
+      "src": "../../@facephi/selphid-widget-web/selphid-widget-web.min.js",
+      "file": "@facephi_selphid-widget-web.js",
+      "fileHash": "65b594f6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "shadow-css-AFURXVNS": {
+      "file": "shadow-css-AFURXVNS.js"
+    },
+    "facephi-sdk-provider.entry-BKQKWGXQ": {
+      "file": "facephi-sdk-provider__entry-BKQKWGXQ.js"
+    },
+    "facephi-selphi-widget.entry-R4BYTYTV": {
+      "file": "facephi-selphi-widget__entry-R4BYTYTV.js"
+    },
+    "facephi-selphid-widget.entry-SV3K3N5J": {
+      "file": "facephi-selphid-widget__entry-SV3K3N5J.js"
+    },
+    "chunk-ZY4HURDB": {
+      "file": "chunk-ZY4HURDB.js"
+    },
+    "chunk-BXFY6GLP": {
+      "file": "chunk-BXFY6GLP.js"
+    },
+    "facephi-video-provider.entry-ZGYSXBD2": {
+      "file": "facephi-video-provider__entry-ZGYSXBD2.js"
+    },
+    "facephi-video-recruitment-widget.entry-RHX7MJPS": {
+      "file": "facephi-video-recruitment-widget__entry-RHX7MJPS.js"
+    },
+    "chunk-HSXMT2AK": {
+      "file": "chunk-HSXMT2AK.js"
+    },
+    "chunk-Z6DSV6CQ": {
+      "file": "chunk-Z6DSV6CQ.js"
+    },
+    "video-recruitment.entry-7IPTYOD2": {
+      "file": "video-recruitment__entry-7IPTYOD2.js"
+    },
+    "dom-DT4CBLQA": {
+      "file": "dom-DT4CBLQA.js"
+    },
+    "core-js-4B3HJYXI": {
+      "file": "core-js-4B3HJYXI.js"
+    },
+    "button-component_3.entry-J2PV4AXA": {
+      "file": "button-component_3__entry-J2PV4AXA.js"
+    },
+    "chunk-PBCZEAHA": {
+      "file": "chunk-PBCZEAHA.js"
+    },
+    "button-icon_10.entry-OQT2GPRC": {
+      "file": "button-icon_10__entry-OQT2GPRC.js"
+    },
+    "captured-container_7.entry-IK7OPNTD": {
+      "file": "captured-container_7__entry-IK7OPNTD.js"
+    },
+    "chunk-Q6RHE5VK": {
+      "file": "chunk-Q6RHE5VK.js"
+    },
+    "chunk-HZFM5WJ6": {
+      "file": "chunk-HZFM5WJ6.js"
+    },
+    "chunk-PNDESK4O": {
+      "file": "chunk-PNDESK4O.js"
+    }
+  }
+}

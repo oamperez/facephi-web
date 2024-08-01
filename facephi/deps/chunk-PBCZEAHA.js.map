@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../@facephi/sdk-web-wc/dist/esm/_commonjsHelpers-ba3f0406.js"],
+  "sourcesContent": ["var commonjsGlobal = typeof globalThis !== 'undefined' ? globalThis : typeof window !== 'undefined' ? window : typeof global !== 'undefined' ? global : typeof self !== 'undefined' ? self : {};\n\nfunction getDefaultExportFromCjs (x) {\n\treturn x && x.__esModule && Object.prototype.hasOwnProperty.call(x, 'default') ? x['default'] : x;\n}\n\nfunction createCommonjsModule(fn, basedir, module) {\n\treturn module = {\n\t\tpath: basedir,\n\t\texports: {},\n\t\trequire: function (path, base) {\n\t\t\treturn commonjsRequire();\n\t\t}\n\t}, fn(module, module.exports), module.exports;\n}\n\nfunction commonjsRequire () {\n\tthrow new Error('Dynamic requires are not currently supported by @rollup/plugin-commonjs');\n}\n\nexport { commonjsGlobal as a, createCommonjsModule as c, getDefaultExportFromCjs as g };\n\n//# sourceMappingURL=_commonjsHelpers-ba3f0406.js.map"],
+  "mappings": ";AAAA,IAAI,iBAAiB,OAAO,eAAe,cAAc,aAAa,OAAO,WAAW,cAAc,SAAS,OAAO,WAAW,cAAc,SAAS,OAAO,SAAS,cAAc,OAAO,CAAC;AAE9L,SAAS,wBAAyB,GAAG;AACpC,SAAO,KAAK,EAAE,cAAc,OAAO,UAAU,eAAe,KAAK,GAAG,SAAS,IAAI,EAAE,SAAS,IAAI;AACjG;AAEA,SAAS,qBAAqB,IAAI,SAAS,QAAQ;AAClD,SAAO,SAAS;AAAA,IACf,MAAM;AAAA,IACN,SAAS,CAAC;AAAA,IACV,SAAS,SAAU,MAAM,MAAM;AAC9B,aAAO,gBAAgB;AAAA,IACxB;AAAA,EACD,GAAG,GAAG,QAAQ,OAAO,OAAO,GAAG,OAAO;AACvC;AAEA,SAAS,kBAAmB;AAC3B,QAAM,IAAI,MAAM,yEAAyE;AAC1F;",
+  "names": []
+}

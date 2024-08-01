@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../@facephi/sdk-web-wc/dist/esm/src/state/constants.ts"],
+  "sourcesContent": ["export const MOBILE = 'mobile';\n\nexport const ERRORS = {\n  SELPHI_NOT_LICENSED: 'You cannot use the Selphi widget because it has not been licensed, please contact Facephi to be provided with a new license',\n  SELPHID_NOT_LICENSED: 'You cannot use the Selphid widget because it has not been licensed, please contact Facephi to be provided with a new license',\n  VIDEO_RECRUITMENT_NOT_LICENSED: 'You cannot use the Video Recruitment widget because it has not been licensed, please contact Facephi to be provided with a new license',\n  LICENSE_INVALID: 'The license is invalid, please contact Facephi for more information',\n  LICENSE_SERVICE_ERROR:\n    'We have not been able to check the license of your SDK, please review the configuration and check that everything is working correctly according to the manual',\n  LICENSE_EXPIRED: 'The license is expired, please contact Facephi to be provided with a new license.',\n};\n"],
+  "mappings": ";IAAa,SAAS;IAET,SAAS;EACpB,qBAAqB;EACrB,sBAAsB;EACtB,gCAAgC;EAChC,iBAAiB;EACjB,uBACE;EACF,iBAAiB;;",
+  "names": []
+}

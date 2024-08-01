@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../@facephi/sdk-web-wc/dist/esm/src/utils/utils.ts"],
+  "sourcesContent": ["export function format(first: string, middle: string, last: string): string {\n  return (first || '') + (middle ? ` ${middle}` : '') + (last ? ` ${last}` : '');\n}\n\nexport function isJsonString(str: string) {\n  try {\n    JSON.parse(str);\n  } catch (e) {\n    return false;\n  }\n  return true;\n}\n\nexport function setWidgetParam(param: boolean) {\n  if (param !== undefined) {\n    return param ? 'true' : 'false';\n  }\n  return param;\n}\n"],
+  "mappings": ";SAagB,eAAe,OAAc;AAC3C,MAAI,UAAU,QAAW;AACvB,WAAO,QAAQ,SAAS;;AAE1B,SAAO;AACT;",
+  "names": []
+}
