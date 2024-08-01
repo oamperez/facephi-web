@@ -14,7 +14,7 @@
 </head>
 <body>
     <facephi-sdk-provider
-        apikey="mG4b2SjMV4oeITn4AWc1n8pKIM2zfuctMNUcKWsC"
+        apikey="{{ env('FACEPHI_KEY') }}"
         steps="START,SELPHI_WIDGET,SELPHID_WIDGET,FINISH"
         customer-id="laravel-example"
         bundle-path="/assets/widgets/"
