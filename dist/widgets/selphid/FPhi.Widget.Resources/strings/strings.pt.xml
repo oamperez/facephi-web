@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <token id="loading_message">Inicializando...</token>
+
+    <!-- Buttons -->
+    <token id="button_ok">SIM, CONTINUAR</token>
+    <token id="button_repeat">NÃO, TENTAR NOVAMENTE</token> 
+    <token id="button_skip">OMITIR</token>
+    <token id="button_finish">PRONTO</token>
+    <token id="button_next">SEGUINTE</token>
+    <token id="button_back">VOLTAR</token>
+    <token id="button_initial_tip">COMEÇAR</token>
+
+    <!-- Standard messages -->
+    <token id="searching1_text">Capturando</token>
+    <token id="searching2_text">Lendo margens</token>
+    <token id="capture_front_text">Foque a FRENTE&#10;do documento</token>
+    <token id="capture_back_text">Foque o VERSO&#10;do documento</token>
+    <token id="capture_detail_text">Certifique-se de que o texto seja legível&#10;e que a imagem esteja clara</token>
+    <token id="capture_tip_text">Antes de começar:&#10;Captura automática</token>
+    <token id="preview_front_text">Todos os dados são lidos de forma clara e nítida?</token>
+    <token id="preview_back_text">Todos os dados são lidos de forma clara e nítida?</token>
+    <token id="flip_document">Virar o documento</token>
+    <token id="capture_status_front_ok">Foto tirada!</token>
+    <token id="capture_status_front_fail">Os dados não&#10;estão legíveis</token>
+    <token id="capture_status_back_ok">Foto tirada!</token>
+    <token id="capture_status_back_fail">Os dados não&#10;estão legíveis</token>                              
+    <token id="waitRecording">Processando informação...</token>
+
+    <!-- Tutorial -->
+    <token id="tutorial1_tip">TIP 1: CENTRALIZE O DOCUMENTO</token>
+    <token id="tutorial1_tip_detail">Coloque o documento dentro&#10;do quadrado</token>            
+    <token id="tutorial2_tip">TIP 2: DADOS VISÍVEIS</token>
+    <token id="tutorial2_tip_detail">Segure o documento pela&#10;borda para não cobrir os&#10;dados</token>
+    <token id="tutorial3_tip">TIP 3: EVITE REFLEXOS</token>
+    <token id="tutorial3_tip_detail">Evite brilhos que dificultem&#10;a leitura do documento</token>     
+    
+    <!-- Manual Mode -->
+    <token id="button_start">COMEÇAR</token>
+    <token id="button_manual">MODO MANUAL</token>
+    <token id="button_manual_close">TENTAR DE NOVO</token>
+    <token id="infoFront">Carregue uma imagem da FRENTE&#10;do seu documento.</token>
+    <token id="infoBack">Carregue uma imagem da VERSO&#10;do seu documento.</token>
+    <token id="infoQuality">A imagem é nítida?</token>
+    <token id="infoTimeoutTitle">Diagnóstico</token>
+    <token id="infoTimeout">Certifique-se de que o documento está dentro&#10;da caixa e que todos os dados estão visíveis.</token>
+    <token id="infoTimeout2">Tempo excedido</token>
+
+    <!-- Diagnostic messages -->
+    <token id="documentDiagnostic_2">Evite inclinar&#10;o documento</token>
+    <token id="documentDiagnostic_3">Ampliar&#10;o documento</token>
+    <token id="documentDiagnostic_4">Reduzir o zoom&#10;do documento</token>
+    <token id="documentDiagnostic_5">Muito perto</token>
+    <token id="documentDiagnostic_6">Mal ângulo</token>
+    <token id="documentDiagnostic_11">Evite o reflexo&#10;no documento</token>
+    <token id="documentDiagnostic_12">Centre o documento&#10;na caixa</token>
+    <token id="documentDiagnostic_13">Reduza ligeiramente o&#10;zoom do documento</token>
+    <token id="documentDiagnostic_17">Muito movimento</token>
+    <token id="documentDiagnostic_18">Imagem congelada</token>
+    <token id="documentDiagnostic_20">Má inclinação</token>
+</translations>

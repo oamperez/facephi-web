@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <token id="loading_message">Initializing...</token>
+
+    <!-- Buttons -->
+    <token id="button_ok">YES, CONTINUE</token>
+    <token id="button_repeat">NO, I WANT TO RETRY</token>
+    <token id="button_skip">SKIP</token>
+    <token id="button_finish">DONE</token>
+    <token id="button_next">NEXT</token>
+    <token id="button_back">BACK</token>
+    <token id="button_initial_tip">START</token>
+
+    <!-- Standard messages -->
+    <token id="searching1_text">Capturing</token>
+    <token id="searching2_text">Reading edges</token>
+    <token id="capture_front_text">Focus on the FRONT&#10;of the document</token>
+    <token id="capture_back_text">Focus on the BACK&#10;of the document</token>
+    <token id="capture_detail_text">Make sure the text is readable&#10;and the image is clear</token>
+    <token id="capture_tip_text">Before you start:&#10;Automatic capture</token>
+    <token id="preview_front_text">Can all the data be&#10;read clearly and sharply?</token>
+    <token id="preview_back_text">Can all the data be&#10;read clearly and sharply?</token>
+    <token id="flip_document">Flip document</token>
+    <token id="capture_status_front_ok">Photo taken!</token>
+    <token id="capture_status_front_fail">The data is&#10;not readable</token>
+    <token id="capture_status_back_ok">Photo taken!</token>
+    <token id="capture_status_back_fail">The data is&#10;not readable</token>
+    <token id="waitRecording">Processing data...</token>
+
+    <!-- Tutorial -->
+    <token id="tutorial1_tip">TIP 1: CENTER DOCUMENT</token>
+    <token id="tutorial1_tip_detail">Place the document&#10;inside the box</token>
+    <token id="tutorial2_tip">TIP 2: VISIBLE DATA</token>
+    <token id="tutorial2_tip_detail">Hold the document from&#10;the edge to avoid covering&#10;the data</token>
+    <token id="tutorial3_tip">TIP 3: AVOID GLARE</token>
+    <token id="tutorial3_tip_detail">Avoid glare that makes&#10;it difficult to read&#10;the document</token>
+    
+    <!-- Manual Mode -->
+    <token id="button_start">START</token>
+    <token id="button_manual">MANUAL MODE</token>
+    <token id="button_manual_close">RETRY</token>
+    <token id="infoFront">Upload an image of the FRONT&#10;of your document.</token>
+    <token id="infoBack">Upload an image of the BACK&#10;of your document.</token>
+    <token id="infoQuality">Is the image clear?</token>
+    <token id="infoTimeoutTitle">Diagnostic</token>
+    <token id="infoTimeout">Check that the document is inside the box&#10;and the data are visible.</token>
+    <token id="infoTimeout2">Time exceeded</token>
+
+    <!-- Diagnostic messages -->
+    <token id="documentDiagnostic_2">Avoid tilting&#10;the document</token>
+    <token id="documentDiagnostic_3">Zoom in on&#10;the document</token>
+    <token id="documentDiagnostic_4">Zoom out&#10;the document</token>
+    <token id="documentDiagnostic_5">Very close</token>
+    <token id="documentDiagnostic_6">Bad angle</token>
+    <token id="documentDiagnostic_11">Avoid document glare</token>
+    <token id="documentDiagnostic_12">Centre the document&#10;in the box</token>
+    <token id="documentDiagnostic_13">Zoom out the&#10;document slightly</token>
+    <token id="documentDiagnostic_17">Too much movement</token>
+    <token id="documentDiagnostic_18">Frozen image</token>
+    <token id="documentDiagnostic_20">Bad tilt</token>
+</translations>

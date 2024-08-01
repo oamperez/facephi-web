@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <token id="loading_message">Inicializando...</token>
+
+    <!-- Buttons -->
+    <token id="button_ok">SÍ, CONTINUAR</token>
+    <token id="button_repeat">NO, QUIERO REINTENTAR</token>
+    <token id="button_skip">OMITIR</token>
+    <token id="button_finish">LISTO</token>
+    <token id="button_next">SIGUIENTE</token>
+    <token id="button_back">VOLVER</token>
+    <token id="button_initial_tip">COMENZAR</token>
+
+    <!-- Standard messages -->
+    <token id="searching1_text">Capturando</token>
+    <token id="searching2_text">Leyendo bordes</token>
+    <token id="capture_front_text">Enfoca el FRENTE&#10;del documento</token>
+    <token id="capture_back_text">Enfoca el DORSO&#10;del documento</token>
+    <token id="capture_detail_text">Asegúrate que el texto sea legible&#10;y que la imagen sea clara</token>
+    <token id="capture_tip_text">Antes de comenzar:&#10;Captura automática</token>
+    <token id="preview_front_text">¿Todos los datos se leen de forma clara y nítida?</token>
+    <token id="preview_back_text">¿Todos los datos se leen de forma clara y nítida?</token>
+    <token id="flip_document">Dale la vuelta al documento</token>
+    <token id="capture_status_front_ok">¡Foto realizada!</token>
+    <token id="capture_status_front_fail">Los datos no&#10;se leen bien</token>
+    <token id="capture_status_back_ok">¡Foto realizada!</token>
+    <token id="capture_status_back_fail">Los datos no&#10;se leen bien</token>
+    <token id="waitRecording">Procesando información...</token>
+
+    <!-- Tutorial -->
+    <token id="tutorial1_tip">TIP 1: CENTRAR DOCUMENTO</token>
+    <token id="tutorial1_tip_detail">Coloca el documento dentro&#10;del recuadro</token>
+    <token id="tutorial2_tip">TIP 2: DATOS VISIBLES</token>
+    <token id="tutorial2_tip_detail">Sujeta el documento desde&#10;el borde para no tapar&#10;los datos</token>
+    <token id="tutorial3_tip">TIP 3: EVITAR REFLEJOS</token>
+    <token id="tutorial3_tip_detail">Evita brillos que dificulten la&#10;lectura del documento</token>
+    
+    <!-- Manual Mode -->
+    <token id="button_start">COMENZAR</token>
+    <token id="button_manual">MODO MANUAL</token>
+    <token id="button_manual_close">REINTENTAR</token>
+    <token id="infoFront">Sube una imagen del frente de tu documento</token>
+    <token id="infoBack">Sube una imagen del dorso de tu documento</token>
+    <token id="infoQuality">¿La imagen es nítida?</token>
+    <token id="infoTimeoutTitle">Diagnóstico</token>
+    <token id="infoTimeout">Asegúrate de que el documento está dentro&#10;del recuadro y todos los datos son visibles.</token>
+    <token id="infoTimeout2">Tiempo superado</token>
+
+    <!-- Diagnostic messages -->
+    <token id="documentDiagnostic_2">Evita la inclinación del documento</token>
+    <token id="documentDiagnostic_3">Acerca el documento</token>
+    <token id="documentDiagnostic_4">Aleja el documento</token>
+    <token id="documentDiagnostic_5">Muy cerca</token>
+    <token id="documentDiagnostic_6">Mal ángulo</token>
+    <token id="documentDiagnostic_11">Evita brillos del documento</token>
+    <token id="documentDiagnostic_12">Centra el documento en el recuadro</token>
+    <token id="documentDiagnostic_13">Aleja ligeramente el documento</token>
+    <token id="documentDiagnostic_17">Demasiado movimiento</token>
+    <token id="documentDiagnostic_18">Imagen congelada</token>
+    <token id="documentDiagnostic_20">Mala inclinación</token>
+</translations>
